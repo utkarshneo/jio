@@ -17,8 +17,8 @@ metadata:
       url: https://www.github.com/RearPortal
   annotations:
     github.com/project-slug: RearPortal/rearportal
-    backstage.io/techdocs-ref: dir:.
      bitrise.io/app: react-native
+    backstage.io/techdocs-ref: dir:.
     backstage.io/adr-location: docs/adrs
 spec:
   type: service
